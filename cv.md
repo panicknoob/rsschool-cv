@@ -5,7 +5,7 @@ tel. mobile: 89272831119; e-mail: panick_noob@mail.ru;
 I want to learn JavaScript programming language. No programming experience, but desire in learning web development.
 4. Skills.
 1c - programmer
-5. Code examples.
+5. Code examples. This-->"https://panicknoob.github.io/rsschool-cv/"
 6. Experience. 
 https://javarush.ru ; https://www.codecademy.com/users/chip3754713200/achievements
 7. Education.
