@@ -6,51 +6,6 @@ I want to learn JavaScript programming language. No programming experience, but 
 4. Skills.
 1c - programmer
 5. Code examples.
-2017 year
-Java
-package ka.it.hookah.dto;
-
-import java.math.BigDecimal;
-import java.util.List;
-
-
-public class OrderDto extends AbstractDto 
-
-    private Long createTime;
-
-    private Long completedTime;
-
-    private Integer tableId;
-
-    private List<Integer> productIds;
-
-    private List<Integer> personIds;
-
-    private List<ProductDto> productDtos;
-
-    private List<PersonDto> personDtos;
-
-    private BigDecimal commonPrice;
-
-    public Integer getTableId() 
-        return tableId;
-    
-
-    public void setTableId(Integer tableId) 
-        this.tableId = tableId;
-    
-
-    public Long getCreateTime() 
-        return createTime;
-    
-
-    public void setCreateTime(Long createTime) 
-        this.createTime = createTime;
-    
-
-   
-
-
 6. Experience. 
 https://javarush.ru ; https://www.codecademy.com/users/chip3754713200/achievements
 7. Education.
