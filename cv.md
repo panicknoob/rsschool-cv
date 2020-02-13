@@ -105,5 +105,6 @@ https://javarush.ru ; https://www.codecademy.com/users/chip3754713200/achievemen
 7. Education.
 2006 - 2012
 Maimonides State Classical Academy. Speciality - "<odern programming technologies"
-
+8. English - elementary.
+.end
 
