@@ -13,9 +13,7 @@ package ka.it.hookah.dto;
 import java.math.BigDecimal;
 import java.util.List;
 
-/**
- * Created by user on 03.06.2017.
- */
+
 public class OrderDto extends AbstractDto {
 
     private Long createTime;
@@ -98,7 +96,7 @@ public class OrderDto extends AbstractDto {
         this.personDtos = personDtos;
     }
 }
-----------------------------------------
+
 
 6. Experience. 
 https://javarush.ru ; https://www.codecademy.com/users/chip3754713200/achievements
