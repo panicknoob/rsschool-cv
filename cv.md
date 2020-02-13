@@ -7,7 +7,7 @@ I want to learn JavaScript programming language. No programming experience, but 
 1c - programmer
 5. Code examples.
 2017 year
-----------------------------Java
+Java
 package ka.it.hookah.dto;
 
 import java.math.BigDecimal;
